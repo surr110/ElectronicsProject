@@ -1,0 +1,5 @@
+package com.Imagesaving.dao;
+
+public class ImageDataDao {
+
+}

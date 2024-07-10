@@ -1,0 +1,5 @@
+package com.Imagesaving.repo;
+
+public class ImageDataRepository {
+
+}

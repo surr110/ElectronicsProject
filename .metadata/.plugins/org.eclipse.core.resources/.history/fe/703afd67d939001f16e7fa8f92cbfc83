@@ -1,0 +1,18 @@
+package com.example.CodeWrite;
+
+public class Employee {
+	private String name;
+
+	public Employee() {
+		System.out.println("Employee object Created");
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+}

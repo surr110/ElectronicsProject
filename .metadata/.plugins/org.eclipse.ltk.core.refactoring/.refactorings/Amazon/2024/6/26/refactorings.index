@@ -1,0 +1,6 @@
+1719287310732	Rename type 'OrderEntity'
+1719287330837	Rename type 'ProductEntity'
+1719288524363	Rename type 'OrdersEntity'
+1719289135107	Rename type 'ProductsEntity'
+1719299963717	Encapsulate field 'price'
+1719300421639	Encapsulate field 'city'
